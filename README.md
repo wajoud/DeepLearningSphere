@@ -16,7 +16,7 @@ Our mission is to democratize deep learning knowledge, making advanced AI resear
 Clone this repository to begin exploring the potential of deep learning:
 
 ```bash
-git clone https://github.com/yourusername/DeepLearningSphere.git
+git clone https://github.com/wajoud/DeepLearningSphere.git
 cd DeepLearningSphere
 ```
 
